@@ -1,11 +1,11 @@
 <h1> VectorRM </h1>
 <p align="center"> <strong>Enterprise IT Risk Management Platform</strong> </p> <p align="center"> <img src="https://img.shields.io/badge/Frontend-React_18-blue" /> <img src="https://img.shields.io/badge/Backend-Fastify-black" /> <img src="https://img.shields.io/badge/Database-SQLite-lightgrey" /> <img src="https://img.shields.io/badge/Node-%3E%3D18-green" /> <img src="https://img.shields.io/badge/License-Private-red" /> </p>
 
-<h2> Executive Summary
+<h2> Executive Summary </h2>
 
 VectorRM is a browser-based IT Risk Management platform engineered to provide structured risk visibility, assessment discipline, and audit defensibility.
 
-Built using React, Fastify, and SQLite, it delivers centralized risk governance, quantitative scoring, and compliance-aligned documentation — deployable locally with Node.js. </h2>
+Built using React, Fastify, and SQLite, it delivers centralized risk governance, quantitative scoring, and compliance-aligned documentation — deployable locally with Node.js. 
 
 System Architecture
 <br> Frontend — Port 5173
