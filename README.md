@@ -7,7 +7,7 @@ VectorRM is a browser-based IT Risk Management platform engineered to provide st
 
 Built using React, Fastify, and SQLite, it delivers centralized risk governance, quantitative scoring, and compliance-aligned documentation — deployable locally with Node.js. 
 
-System Architecture
+<h3> System Architecture </h3>
 <br> <strong> Frontend — Port 5173 </strong> </br>
 - React 18
 - Vite
