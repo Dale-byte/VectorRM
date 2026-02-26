@@ -7,88 +7,48 @@ VectorRM is a browser-based IT Risk Management platform engineered to provide st
 Built using React, Fastify, and SQLite, it delivers centralized risk governance, quantitative scoring, and compliance-aligned documentation — deployable locally with Node.js.
 
 System Architecture
-Frontend — Port 5173
+<br> Frontend — Port 5173
+- React 18
+- Vite
+- Tailwind CSS
+- Framer Motion
+- React Router
 
-React 18
-
-Vite
-
-Tailwind CSS
-
-Framer Motion
-
-React Router
-
-Backend — Port 3001
-
-Fastify
-
-SQL.js (SQLite)
-
-JWT Authentication
-
-RESTful API
+<br> Backend — Port 3001
+- Fastify
+- SQL.js (SQLite)
+- JWT Authentication
+- RESTful API
 
 Functional Capabilities
-Risk Register
+- Risk Register
+- Full risk lifecycle management
+- Ownership and accountability tracking
+- Status workflow (Open → Mitigating → Monitoring → Closed)
+- Inherent and residual risk scoring
+- Domain and category filtering
+- CSV export
+- Risk Assessment Engine
+- 5×5 Likelihood × Impact matrix
+- Automated score calculation
+- Residual risk computation
+- Visual heat map
+- Domain-based trend analysis
+- Governance Controls
+- JWT-based authentication
+- Role-based access control (Admin / Viewer)
+- User and group management
+- Comprehensive audit trail
+- Exportable evidence logs
+- One-click database backup and restore
+- Compliance Alignment
+- VectorRM supports structured alignment with:
+    ISO 27001
+    NIST 800-53
+    CIS Controls
+    SOC 2
 
-Full risk lifecycle management
-
-Ownership and accountability tracking
-
-Status workflow (Open → Mitigating → Monitoring → Closed)
-
-Inherent and residual risk scoring
-
-Domain and category filtering
-
-CSV export
-
-Risk Assessment Engine
-
-5×5 Likelihood × Impact matrix
-
-Automated score calculation
-
-Residual risk computation
-
-Visual heat map
-
-Domain-based trend analysis
-
-Governance Controls
-
-JWT-based authentication
-
-Role-based access control (Admin / Viewer)
-
-User and group management
-
-Comprehensive audit trail
-
-Exportable evidence logs
-
-One-click database backup and restore
-
-Compliance Alignment
-
-VectorRM supports structured alignment with:
-
-ISO 27001
-
-NIST 800-53
-
-CIS Controls
-
-SOC 2
-
-GDPR
-
-HIPAA
-
-PCI DSS
-
-Technology Stack
+<br> Technology Stack:
 Backend Dependencies
 
 Requirements
